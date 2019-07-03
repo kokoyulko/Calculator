@@ -11,7 +11,7 @@ namespace Calculator
         static void Main(string[] args)
         {
             ////////\\\\\\\
-            double m;
+            double a;
             double b;
             double res = 0;
             char oper;
