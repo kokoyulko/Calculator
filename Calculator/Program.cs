@@ -10,7 +10,7 @@ namespace Calculator
     {
         static void Main(string[] args)
         {
-            ////////fffgggg\\\\\\\aaaaa
+            ////////fffggggууу\\\\\\\aaaaa
             double a;
             double b;
             double res = 0;
